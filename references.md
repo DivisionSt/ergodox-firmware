@@ -203,7 +203,7 @@
     * HID = Human Interface Device
 
 * [HID Usage Tables]
-  (http://www.usb.org/developers/devclass_docs/Hut1_12v2.pdf)
+  (https://www.usb.org/document-library/hid-usage-tables-112)
   : pdf (from <http://www.usb.org/developers/hidpage>)
 
 
@@ -460,6 +460,14 @@
   The open source vector graphics tool.  Not the _best_ for diagrams (though,
   see the link; as that tool improves it will hopefully become much better),
   but it works and I like it :) .
+
+### Some Random Stuff
+
+* [Computer Science Education Resource Guide]
+  (http://www.smartscholar.com/computer-science-guide/)  
+  General info for those starting out with computer science (recommended by
+  Tessie Hargrove; i looked at it briefly, and it looks like a nice collection
+  of links)
 
 
 -------------------------------------------------------------------------------
